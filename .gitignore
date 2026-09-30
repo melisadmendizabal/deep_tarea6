@@ -219,3 +219,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Modelos entrenados (muy pesados)
+outputs/models/
